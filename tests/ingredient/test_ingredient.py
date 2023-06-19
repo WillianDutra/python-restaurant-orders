@@ -16,7 +16,7 @@ def test_ingredient():
 
     # eq
     assert ingredient_1 == ingredient_2
-    assert (ingredient_1 == ingredient_3) == False
+    assert ingredient_1 != ingredient_3
 
     # repr
     assert repr(ingredient_1) == "Ingredient('Macarrão')"
