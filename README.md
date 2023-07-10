@@ -1,13 +1,10 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## 🍲 Restaurant Orders
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este projeto consiste em uma aplicação que lê arquivos simples e retorna um cardápio personalizado para o cliente, levando em consideração possíveis restrições alimentares. A implementação utiliza o conceito de Hashmaps, utilizando as estruturas de dados Dict e Set do Python, visando melhorar a performance do código.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## 📝 Aprendizados
+
+- Python
+- Hashmaps através das estruturas de dados Dict e Set do Python
+- Conhecimentos de testes de software;
+- Conhecimentos de orientação a objetos.
